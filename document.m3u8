@@ -5,4 +5,4 @@ EXTM3U
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=7c2c25e40d8e4f70a3c343e97d9d52ed:07faa6904c06f9bbf8860691c9c3629d
-https://rr.cdn.vodafone.pt/LIVE/sdash/LIVE$110/index.mpd/Manifest?start=LIVE&end=END&device=DASH_AVC_FULLHD
+https://alfr-bks-10.cdn.vodafone.pt/bpk-token/1aa@gm4vqgrryxc0erxmrvzoc2lbnsbtpfujg4mbbvca/LIVE/sdash/LIVE$110/index.mpd
