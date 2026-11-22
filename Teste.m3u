@@ -1,0 +1,7 @@
+#M3U
+#EXTINF:-1 group-title="TV" tvg-id="SIC.pt" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/SIC.pt.png",SIC
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|e4cce7421f2843fe94915343372ba185:a55effc1eb5ccf1af1c4f09abbb1cd39
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla%2F5.0%20(X11%3B%20Linux%20x86_64%3B%20rv%3A152.0)%20Gecko%2F20100101%20Firefox%2F152.0&Origin=https%3A%2F%2Fopto.sic.pt&Referer=https%3A%2F%2Fopto.sic.pt%2F
+https://d1zx6l1dn8vaj5.cloudfront.net/out/v1/5e99aa024db04f4a877d37ad9512ef24/index.mpd
